@@ -10,4 +10,4 @@
 | git push -u origin main | Sube los cambios al repositorio |
 | git status | Mira el estado de los cambios realizados |
 
-## Link: https://bryan967132.github.io/practica4/
+## Link: https://bryan967132.github.io/practica2/
